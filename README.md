@@ -22,3 +22,4 @@ This project is a lightweight, browser-based application that converts written t
 4. Select a voice from the dropdown menu[cite: 1, 2].
 5. Click **Start Speaking** to hear the audio[cite: 1]. 
 6. Click **Stop Converting** to halt the audio playback at any time[cite: 2].
+Updated on July 5, 2026
